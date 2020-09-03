@@ -1,4 +1,4 @@
-# IntroductionToJava 4.1
+# IntroductionToJava - 4.1
 ProgrammingWithClasses
 
 #Простейшие классы и объекты.
